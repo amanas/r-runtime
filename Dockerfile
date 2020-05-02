@@ -21,4 +21,4 @@ RUN install2.r --error --deps TRUE \
     xts \
     plumber
 
-RUN ["R"]
+RUN ["R", "--vanilla"]
