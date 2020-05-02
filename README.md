@@ -1,6 +1,8 @@
 # r-runtime
 
-[R](https://www.r-project.org/) runtime [Docker container](https://hub.docker.com/repository/docker/amanas/r-runtime) with a few custom libraries.
+[Docker](https://www.docker.com/) container with [R](https://www.r-project.org/) runtime and a few custom libraries.
+
+See in [docker hub](https://hub.docker.com/r/amanas/r-runtime).
 
 Includes:
 
